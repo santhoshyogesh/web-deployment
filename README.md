@@ -6,3 +6,4 @@ This project contains a simple web application deployed on AWS.
 
 ## Files
 - `index.html`: Main webpage
+![Alt text](relative/path/to/image "Optional Title")
