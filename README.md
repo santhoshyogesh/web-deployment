@@ -6,4 +6,5 @@ This project contains a simple web application deployed on AWS.
 
 ## Files
 - `index.html`: Main webpage
-![Alt text](C:\Users\sksan\Pictures\Screenshots\web deploy.png)
+![Deployment Screenshot](assets/web-deploy.png "Screenshot of the deployed web application")
+
